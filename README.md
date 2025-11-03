@@ -3,7 +3,6 @@
 This project is a complete, end-to-end analytical application built for the Quant Developer Evaluation Assignment. It implements a system that handles real-time data ingestion, persistent storage, quantitative analysis, and interactive visualization, all as specified in the project brief.
 
 ![Dashboard Screenshot](Screenshot.png)
-*(**Note:** Add one of your screenshots to the repository and name it `Screenshot.png` so this image displays.)*
 
 ---
 
@@ -49,8 +48,7 @@ The system uses a **decoupled, two-process architecture**:
 
 ### Architecture Diagram
 
-![Architecture Diagram](architecture.png)
-*(This file is included in the repository as `architecture.drawio` and `architecture.png`.)*
+![Architecture Diagram](Architecture.png)
 
 ---
 
